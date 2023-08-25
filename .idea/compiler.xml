@@ -9,8 +9,5 @@
         <module name="java-space-inventory" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java-space-inventory" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
